@@ -1,0 +1,13 @@
+!-- Goal : Get this thing done
+
+// Step 1
+	// sub step # this is tabbed
+		>> Event
+		0: Activity
+
+// Step 
+
+// Step 3
+
+
+The thought around this project focuses on a quick short hand for goal and task management. This would be a back end service implementation that can expressed through various UI skins/implementations
